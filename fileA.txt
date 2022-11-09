@@ -1,1 +1,1 @@
-creat fileA.txt
+featrue 1 
